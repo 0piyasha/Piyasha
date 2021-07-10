@@ -1,4 +1,4 @@
-Resurrection Remix OS PIE Source 2019
+Piyasha
 ===================
 
 [Crowdin for translations](https://crowdin.com/project/resurrectionremix/)

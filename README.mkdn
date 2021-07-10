@@ -11,8 +11,8 @@ Sync
 ---------------
 ```bash
 
-# Initialize local repository
-repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b Q
+ #Initialize local repository
+repo init -u https://github.com//0piyasha/Piyasha_manifiest -b Q
 
 # Sync
 repo sync --force-sync --no-clone-bundle
